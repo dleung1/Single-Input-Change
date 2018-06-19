@@ -12,5 +12,5 @@ Z is true when x1 and x2 are 1 and the second previous change was x1.
 Else Z is equal to 0.
 
 For example [x1,x2]: 00 -> 10 -> 11 ; Z = 1
-                   : 00 -> 01 -> 11 ; Z = 0
+However when       : 00 -> 01 -> 11 ; Z = 0
                    
